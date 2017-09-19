@@ -1,0 +1,16 @@
+{
+  "name": "DevOps",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "www.github.com/nicolasrestrepo",
+  "author": "nicolas restrepo",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "mocha": "^3.5.3",
+    "supertest": "^3.0.0"
+  }
+}
